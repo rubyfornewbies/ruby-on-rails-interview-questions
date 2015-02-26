@@ -14,8 +14,8 @@ This file contains a number of questions for Junior and Seniors Rails developers
 ## Getting Involved
 
   1. [Contributors](#contributors)
-  1. [How to Contribute](https://github.com/rubyfornewbies/ruby-on-rails-interview-questions/edit/master/CONTRIBUTING.md)
-  1. [License](https://github.com/rubyfornewbies/ruby-on-rails-interview-questions/edit/master/LICENSE.md)
+  1. [How to Contribute](https://github.com/rubyfornewbies/ruby-on-rails-interview-questions/blob/master/CONTRIBUTING.md)
+  1. [License](https://github.com/rubyfornewbies/ruby-on-rails-interview-questions/blob/master/LICENSE.md)
 
 #### General Questions:
 These are a subset of general programming and web development questions
