@@ -1,6 +1,6 @@
 # Ruby on Rails Interview Questions
 
-This file contains a number of questions for Junior and Seniors Rails developers to practice for an interview. Please keep in mind that some questions are not meant for precise answers, but more an evaluation of how think and attack problem. 
+This file contains a number of questions for Junior and Seniors Rails developers to practice for an interview. Please keep in mind that some questions are not meant for precise answers, but more an evaluation of how think and attack a question/problem. 
 
 **Note**: This is a response to the [H5BP document](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developers and a question posted in the [Ruby Newbies](http://rubynewbies.org) Slack Channel. 
 
