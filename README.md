@@ -19,18 +19,23 @@ This file contains a number of questions for Junior and Seniors Rails developers
 
 #### General Questions:
 These are a subset of general programming and web development questions
+* Show us a project you are most proud of and tell how you implemented it
 
 #### Ruby Questions:
+* What is a lambda
+* When would you use a lambda over a proc? 
 
 #### Rails Questions:
+* Name the components of Rails
 
 #### Frontend Questions:
-
-#### JS Questions:
 
 #### Coding Questions:
 
 #### Coding Projects:
+* Game of Life
+* Unbeatable Tic Tac Toe
+* Twitter Clone
 
 #### Contributors:
-It has since received contributions from [1 developers](https://github.com/rubyfornewbies/ruby-on-rails-interview-questions/graphs/contributors).
+It has since received contributions from [1 developer](https://github.com/rubyfornewbies/ruby-on-rails-interview-questions/graphs/contributors). More to come...
