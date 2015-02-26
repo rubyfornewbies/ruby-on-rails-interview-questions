@@ -6,7 +6,7 @@ This file contains a number of questions for Junior and Seniors Rails developers
 
   1. [General Questions](#general-questions)
   1. [Ruby Questions](#ruby-questions)
-  1. [Frontend Questions](#frontend-questions)
+  1. [Frontend Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
   1. [JS Questions](#js-questions)
   1. [Coding Questions](#coding-questions)
   1. [Coding Projects](#coding-projects)
@@ -27,8 +27,6 @@ These are a subset of general programming and web development questions
 
 #### Rails Questions:
 * Name the components of Rails
-
-#### Frontend Questions:
 
 #### Coding Questions:
 
