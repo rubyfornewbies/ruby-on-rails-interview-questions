@@ -6,6 +6,7 @@ This file contains a number of questions for Junior and Seniors Rails developers
 
   1. [General Questions](#general-questions)
   1. [Ruby Questions](#ruby-questions)
+  1. [Rails Questions](#ruby-questions)
   1. [Frontend Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
   1. [Coding Questions](#coding-questions)
   1. [Coding Projects](#coding-projects)
